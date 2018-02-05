@@ -6,6 +6,6 @@ Simulation setup
 3. K=2 components for the (intercept, slope, variance)
 
 Issues: 
-MFM vs DPM
-effective MCMC (from Neal's algorithm 8 to split-merge) 
-Choice of hyperparameters using EB or ?, especially for gamma in MFM and alpha in DPM.
+1. MFM vs DPM
+2. effective MCMC (from Neal's algorithm 8 to split-merge) 
+3. Choice of hyperparameters using EB or ?, especially for gamma in MFM and alpha in DPM.
